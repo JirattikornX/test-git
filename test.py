@@ -1,1 +1,3 @@
-print("hee")
+print("hee");       
+
+print("kuy");
